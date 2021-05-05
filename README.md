@@ -78,6 +78,7 @@ Meu Nome é Thiago Martins Queiroz, Estou no último semestre da faculdade UNIP 
 </h1>
 
 <div align = "center">
+
 ![mqthiago Github Status](https://github-readme-stats.vercel.app/api?username=mqthiago&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
