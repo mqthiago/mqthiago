@@ -6,7 +6,7 @@
 
 Sobre
 
-Meu Nome é Thiago Martins Queiroz, Estou no último semestre da faculdade UNIP de ciência da computação faltando apenas o estágio para conclusão. Estou procurando oportunidades de emprego, e buscando novos aprendizados para expandir meus conhecimentos.
+Meu Nome é Thiago Martins Queiroz, Estou no último semestre da faculdade UNIP de ciência da computação faltando apenas o estágio para conclusão.
 
 
 <hr/>
