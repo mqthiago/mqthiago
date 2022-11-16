@@ -66,7 +66,7 @@ Meu Nome é Thiago Martins Queiroz, Estou no último semestre da faculdade UNIP 
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/thiago-martins-queiroz-6606231b8/">
+  <a href="https://www.linkedin.com/in/thiagomq/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
