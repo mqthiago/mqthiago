@@ -36,6 +36,5 @@
 
 <div align = "center">
 
-<hr>
 
 </div>
