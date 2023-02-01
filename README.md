@@ -3,12 +3,11 @@
 </h2>
 
 
-
 <hr>
 
-![mqthiago Github Status](https://github-readme-stats.vercel.app/api?username=mqthiago&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![mqthiago GitHub stats](https://github-readme-stats.vercel.app/api?username=mqthiago&show_icons=true&theme=dracula)
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqthiago&layout=compact&langs_count=6&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqthiago&layout=compact&langs_count=6&theme=dracula"/>
 
 <hr>
 
