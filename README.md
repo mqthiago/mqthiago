@@ -38,4 +38,4 @@
 
 </div>
 
-![snake gif](https://github.com/mqthiago/mqthiago/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/mqthiago/mqthiago/blob/output/github-contribution-grid-snake.svg)
