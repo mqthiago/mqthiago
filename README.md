@@ -1,8 +1,6 @@
-## Olá <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Eu sou [Thiago](https://github.com/mqthiago) !!
+Olá <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Eu sou [Thiago](https://github.com/mqthiago) !!
 
 </h2>
-
-
 <hr>
 
 ![mqthiago GitHub stats](https://github-readme-stats.vercel.app/api?username=mqthiago&show_icons=true&theme=dracula)
